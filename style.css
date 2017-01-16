@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url(http://sweat.burnthis.com/wp-content/uploads/2013/10/london1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1200px 400px;
+   }
+#jumbo {
+  font-style: italic;
+}
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.container {
+  text-align: left;
+}
+body {
+  background-color: #3be67e;
+  font-family: Dancing Script;
+}
